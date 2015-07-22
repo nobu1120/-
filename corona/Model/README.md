@@ -1,0 +1,8 @@
+Model
+====
+
+##overview  
+Modelクラス
+
+## ルール
+
